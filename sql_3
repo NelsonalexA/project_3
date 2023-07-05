@@ -36,7 +36,7 @@ insert into bookdb.authors values
 (2,'naveen',35,3),
 (3,'dilkip',56,5),
 (4,'shalini c',46,1),
-(5,'lakshana',43,4);
+(5,'nelson',43,4);
 
 /*Retrieve all the books from the database*/
 SELECT * FROM bookdb.books;
